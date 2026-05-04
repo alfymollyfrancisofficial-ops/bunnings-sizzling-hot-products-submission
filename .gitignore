@@ -1,0 +1,22 @@
+node_modules/
+dist/
+coverage/
+.expo/
+.expo-shared/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Env
+.env
+.env.local
+*.log
+
+# Build artefacts
+*.tsbuildinfo
